@@ -19,7 +19,8 @@ This is my project for the Unsupervised Learning part of the Udacity Data Analyt
 
 ### Steps
 - Step 0 - Load Data
-  Loaded datasets and explored them
+  - Loaded datasets and explored them
+    
 - Step 1 - Preprocessing
   - Assessed missing data
   - Converted missing value codes to NaNs - used Feature_Summary.csv to find missing value codes in AZDIAS_Subset.csv and converted them to NaN's
