@@ -21,20 +21,20 @@ This is my project for the Unsupervised Learning part of the Udacity Data Analyt
 - Step 0 - Load Data
   Loaded datasets and explored them
 - Step 1 - Preprocessing
-  Assessed missing data
-  Converted missing value codes to NaNs - used Feature_Summary.csv to find missing value codes in AZDIAS_Subset.csv and converted them to NaN's
-  Assessed missing data in each column - removed outliers
-  Assessed missing data in each row - created 2 subsets and use the subset with less missing values per row
-  Re-Encoded Features - dropped multi-lvel features and re-enocded binaray feature with non-numerical values into numerical
-  Engineered Mixed-Type Features - engineered 4 new columns out of 2 old columns. Dropped the 2 old columns
-  Created a cleaning function - cleaning function allows to perform the same preprocessing on the customer data
+  - Assessed missing data
+  - Converted missing value codes to NaNs - used Feature_Summary.csv to find missing value codes in AZDIAS_Subset.csv and converted them to NaN's
+  - Assessed missing data in each column - removed outliers
+  - Assessed missing data in each row - created 2 subsets and use the subset with less missing values per row
+  - Re-Encoded Features - dropped multi-lvel features and re-enocded binaray feature with non-numerical values into numerical
+  - Engineered Mixed-Type Features - engineered 4 new columns out of 2 old columns. Dropped the 2 old columns
+  - Created a cleaning function - cleaning function allows to perform the same preprocessing on the customer data
   
 - Step 2 - Feature Transformation
-  Applied feature scaling - used standard scaler
-  Performed Dimensionality Reduction - used Principal component analysis (PCA) to find the number of components to retain
-  Interpreted Principal Components - made a function that prints the top features and their weights of a given component
+  - Applied feature scaling - used standard scaler
+  - Performed Dimensionality Reduction - used Principal component analysis (PCA) to find the number of components to retain
+  - Interpreted Principal Components - made a function that prints the top features and their weights of a given component
   
 - Step 3 - Clustering
-  Applied Clustering to General Population - used the elbow method to determine the optimal number of clusters
-  Applied all steps to Customer Data - applied all the steps I did on the general population data to the customer data
-  Compared Customer Data to General Population - determined which segments of the population that are popular and unpopular with the company.
+  - Applied Clustering to General Population - used the elbow method to determine the optimal number of clusters
+  - Applied all steps to Customer Data - applied all the steps I did on the general population data to the customer data
+  - Compared Customer Data to General Population - determined which segments of the population that are popular and unpopular with the company.
