@@ -51,7 +51,3 @@ I found that cluster 1 and 2 are overrepresnted and 0,3 and 4 are underrepresent
 Segments of the population relatively popular with mail-order company - older, event-oriented, financially prepared, sensual-minded and people who don't return items much.
 
 Segments of the population relatively unpopular with mail-order company - dense housing far from the center city (suburbs), worse neighborhoods, dominant-minded and dreamful.
-
-Segments of the population relatively popular with mail-order company - older, event-oriented, financially prepared, sensual-minded and people who don't return items much.
-
-Segments of the population relatively unpopular with mail-order company - members of green avantgarde, areas with low density of households, large populated areas and multi-person households.
