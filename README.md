@@ -7,4 +7,5 @@ This is my project for the Unsupervised Learning part of the Udacity Data Analyt
 
 ### Files
 Data_Dictionary.md - Explains the datasets and columns
+
 Identify_Customer_Segments - all of the code
