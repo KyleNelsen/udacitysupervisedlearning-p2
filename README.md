@@ -46,7 +46,11 @@ This is my project for the Unsupervised Learning part of the Udacity Data Analyt
 
 <img src="images/proportion_data.png"/>
 
-I found that cluster 1 and 2 are overrepresnted and 0,3 and 4 are underrepresented. Cluster 2 seemed to be the most overrepresented and Cluster 4 seemed to be the most underrepresented.
+I found that cluster 1 and 2 are overrepresnted and 0,3 and 4 are underrepresented. Cluster 2 seemed to be the most overrepresented and Cluster 0 seemed to be the most underrepresented.
+
+Segments of the population relatively popular with mail-order company - older, event-oriented, financially prepared, sensual-minded and people who don't return items much.
+
+Segments of the population relatively unpopular with mail-order company - dense housing far from the center city (suburbs), worse neighborhoods, dominant-minded and dreamful.
 
 Segments of the population relatively popular with mail-order company - older, event-oriented, financially prepared, sensual-minded and people who don't return items much.
 
