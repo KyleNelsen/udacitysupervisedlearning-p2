@@ -6,6 +6,8 @@
 This is my project for the Unsupervised Learning part of the Udacity Data Analytics Nanodegree. It involves wrangling some datasets and using Kmeans clustering to find segments of the population that are popular and unpopular with a mail-order sales company in Germany. The datasets were only allowed to be used for the project and had to be deleted afterwards.
 
 ### Files
+- Images - folder containing visualizations
+  
 - Data_Dictionary.md - Explains the datasets and columns
 
 - Identify_Customer_Segments - all of the code
@@ -39,3 +41,13 @@ This is my project for the Unsupervised Learning part of the Udacity Data Analyt
   - Applied Clustering to General Population - used the elbow method to determine the optimal number of clusters
   - Applied all steps to Customer Data - applied all the steps I did on the general population data to the customer data
   - Compared Customer Data to General Population - determined which segments of the population that are popular and unpopular with the company.
+ 
+### Results
+
+<img src="images/proportion_data.png"/>
+
+I found that cluster 1 and 2 are overrepresnted and 0,3 and 4 are underrepresented. Cluster 2 seemed to be the most overrepresented and Cluster 4 seemed to be the most underrepresented.
+
+Segments of the population relatively popular with mail-order company - older, event-oriented, financially prepared, sensual-minded and people who don't return items much.
+
+Segments of the population relatively unpopular with mail-order company - members of green avantgarde, areas with low density of households, large populated areas and multi-person households.
